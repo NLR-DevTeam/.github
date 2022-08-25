@@ -14,7 +14,7 @@ NLR DevTeam现有作品：
 |[RandomAnimal](https://github.com/NLR-DevTeam/RandomAnimals)|一个带给你奇奇怪怪可可爱爱的猫猫狗狗图的 MCL 插件| 
 
 ## 加入我们
-如果您有意愿加入 NLR-DevTeam, 可以访问此链接加入我们的官方 QQ 群并联系到我们 -> [点我跳转](https://https://join.nlrdev.top/)
+如果您有意愿加入 NLR-DevTeam, 可以访问此链接加入我们的官方 QQ 群并联系到我们 -> [点我跳转](https://join.nlrdev.top/)
 
 <hr>
 
