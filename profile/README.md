@@ -2,9 +2,9 @@
 ## 简介
 NLR DevTeam 是一个基于 NLR 综合社群的开发团队，聚焦于Web前端、Mirai 相关与 Minecraft 相关内容开发
 ## 成员
-- [XIAYM](github.com/XIAYM-gh)：“我是个傻逼！”
-- [YanJi](yanji.pro)：一个盐加多了的菜鸡 Web 开发者
-- [WhitrayHB](whitrayhb.top)：一只时不时咕咕咕的鸽子
+- [XIAYM](//github.com/XIAYM-gh)：“我是个傻逼！”
+- [YanJi](//yanji.pro)：一个盐加多了的菜鸡 Web 开发者
+- [WhitrayHB](//whitrayhb.top)：一只时不时咕咕咕的鸽子
 ## 作品
 NLR DevTeam现有作品：
 |作品|作品描述|
