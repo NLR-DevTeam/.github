@@ -18,10 +18,6 @@ NLR DevTeam 现有作品：
 ## 加入我们
 如果您有意愿加入 NLR-DevTeam, 可以访问此链接加入我们的官方 QQ 群并联系到我们 -> [点我跳转](https://join.nlrdev.top/)
 
+## 这是猫猫
+<img src="https://asset.simsoft.top/products/nlrdev/jueBoomXiaym.gif" width="100%">
 
-
-<hr>
-
-![“顶级”XIAYM](https://asset.simsoft.top/products/nlrdev/jueBoomXiaym.gif)
-
-~~↑ 一只被顶来顶去的XIAYM~~
