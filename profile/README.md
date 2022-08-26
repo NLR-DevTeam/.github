@@ -1,10 +1,11 @@
 # NLR-DevTeam
-NLR DevTeam 是一个成立于2022夏的基于 NLR 综合社群的开发团队，聚焦于 Web 前后端、Java 相关与 Minecraft 相关内容开发
+NLR DevTeam 是一个聚焦于 Web 前后端、Java 相关与 Minecraft 相关内容的开发团队，由 NLR 综合社群的成员成立于2022夏。
 
 ## 成员
 - [XIAYM](//github.com/XIAYM-gh)：一只转生成鸽子的猫
 - [YanJi](//yanji.pro)：一个盐加多了的菜咕咕鸡 Web 开发者
 - [WhitrayHB](//whitrayhb.top)：一只时不时咕咕咕的鸽子
+- [Ray917](//ray917.xyz)：射线集团 rayGroup 开发者
 
 ## 作品
 NLR DevTeam 现有作品：
