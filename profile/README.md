@@ -18,8 +18,5 @@ NLR DevTeam 现有作品：
 ## 加入我们
 如果您有意愿加入 NLR-DevTeam, 可以访问此链接加入我们的官方 QQ 群并联系到我们 -> [点我跳转](https://join.nlrdev.top/)
 
-## 这是猫猫
-<img src="https://asset.simsoft.top/products/nlrdev/jueBoomXiaym.gif" width="30%">
-
-## 这是盐加多了的鸡
-<img src="https://github.com/NLR-DevTeam/.github/blob/main/profile/%E9%94%A4%E7%88%86%E7%9B%90%E9%B8%A1.gif" width="30%">
+## 奇奇怪怪の图片
+<img src="https://static.nlrdev.top/developer-jued/xiaym.gif" width="25%"><img src="https://static.nlrdev.top/developer-jued/whitrayhb.gif" width="25%"><img src="https://static.nlrdev.top/developer-jued/ray.gif" width="25%"><img src="https://static.nlrdev.top/developer-jued/yanji.gif" width="25%">
