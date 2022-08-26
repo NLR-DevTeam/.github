@@ -1,5 +1,5 @@
 # NLR-DevTeam
-NLR DevTeam 是一个聚焦于 Web 前后端、Java 相关与 Minecraft 相关内容的开发团队，由 NLR 综合社群的成员成立于2022夏。
+NLR DevTeam 是一个聚焦于 Web 前后端、Java 相关与 Minecraft 相关内容的开发团队，由 NLR 综合社群的成员建立于 2022 夏。
 - 官网：https://nlrdev.top/
 - 邮箱：[contact@nlrdev.top](mailto:contact@nlrdev.top)
 - 群聊：[182850795](//join.nlrdev.top)
