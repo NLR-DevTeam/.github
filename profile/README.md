@@ -6,7 +6,7 @@ NLR DevTeam 是一个聚焦于 Web 前后端、Java 相关与 Minecraft 相关�
 
 ## 成员
 - [XIAYM](//github.com/XIAYM-gh)：一只转生成鸽子的猫
-- [YanJi](//yanji.pro)：一个盐加多了的菜咕咕鸡 Web 开发者
+- [YanJi](//yanji.pro)：菜鸟 Web 开发者，氢软站长
 - [WhitrayHB](//whitrayhb.top)：一只时不时咕咕咕的鸽子
 - [Ray917](//ray917.xyz)：射线集团 rayGroup 开发者
 
