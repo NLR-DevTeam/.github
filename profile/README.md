@@ -22,6 +22,8 @@ NLR DevTeam 现有作品：
 ## 加入我们
 如果您有意愿加入 NLR-DevTeam, 可以访问此链接加入我们的官方 QQ 群并联系到我们 -> [点我跳转](https://join.nlrdev.top/)
 
-## 奇奇怪怪の图片
+<details>
+<summary>奇奇怪怪の图片</summary>
 <img src="https://static.nlrdev.top/developer-jued/whitrayhb.gif" width="25%"><img src="https://static.nlrdev.top/developer-jued/ray.gif" width="25%"><img src="https://static.nlrdev.top/developer-jued/yanji.gif" width="25%"><img src="https://static.nlrdev.top/developer-jued/xiaym.gif" width="25%">
 <img src="https://static.nlrdev.top/zhen-huo/jueXiaym.webp" width="25%"><img src="https://static.nlrdev.top/zhen-huo/jueXiaym.webp" width="25%"><img src="https://static.nlrdev.top/zhen-huo/jueXiaym.webp" width="25%"><img src="https://static.nlrdev.top/zhen-huo/nao.webp" width="25%">
+</details>
