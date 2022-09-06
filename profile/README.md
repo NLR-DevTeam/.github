@@ -1,8 +1,7 @@
-# NLR-DevTeam
+<h1 align=center>NLR-DevTeam</h1>
+==[ <p align=center>[Website](https://nlrdev.top/) | [E-Mail](mailto:contact@nlrdev.top) | [Tencent QQ](//join.nlrdev.top)</p> ]==
 NLR DevTeam 是一个聚焦于 Web 前后端、Java 相关与 Minecraft 相关内容的开发团队，由 NLR 综合社群的成员建立于 2022 夏。
-- 官网：https://nlrdev.top/
-- 邮箱：[contact@nlrdev.top](mailto:contact@nlrdev.top)
-- 群聊：[182850795](//join.nlrdev.top)
+
 
 ## 成员
 - [XIAYM](//github.com/XIAYM-gh)：一只转生成鸽子的猫
