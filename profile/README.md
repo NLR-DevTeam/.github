@@ -1,8 +1,10 @@
 <h1 align=center>NLR-DevTeam</h1>
 <p align=center>
+  ·--==[
   <a href="//nlrdev.top">Website</a> |
   <a href="mailto:contact@nlrdev.top">Mail</a> |
   <a href="//join.nlrdev.top">QQ Group</a>
+  ]==--·
 </p>
 NLR DevTeam 是一个聚焦于 Web 前后端、Java 相关与 Minecraft 相关内容的开发团队，由 NLR 综合社群的成员建立于 2022 夏。
 
