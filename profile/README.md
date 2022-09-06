@@ -1,7 +1,7 @@
 # NLR-DevTeam
 <p>NLR 综合社群建立的软件开发团队</p>
 <pre><code>┌——————————————————————————┐
-│ <b>Links</b>                  X │
+│ <b>Links</b>             — 口 X │
 ├——————————————————————————┤ 
 │                          │  
 │     <a href="//nlrdev.top" target="_blank">> Official Site</a>      │
