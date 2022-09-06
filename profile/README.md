@@ -1,13 +1,11 @@
 <h1 align=center>NLR-DevTeam</h1>
 <p align=center>
-  ·--==[
-  <a href="//nlrdev.top">Website</a> |
-  <a href="mailto:contact@nlrdev.top">Mail</a> |
-  <a href="//join.nlrdev.top">QQ Group</a>
-  ]==--·
+  --==[
+  <a href="//nlrdev.top">官方网站</a> ·
+  <a href="mailto:contact@nlrdev.top">电子邮箱</a> ·
+  <a href="//join.nlrdev.top">加入我们</a>
+  ]==--
 </p>
-NLR DevTeam 是一个聚焦于 Web 前后端、Java 相关与 Minecraft 相关内容的开发团队，由 NLR 综合社群的成员建立于 2022 夏。
-
 
 ## 成员
 - [XIAYM](//github.com/XIAYM-gh)：一只转生成鸽子的猫
@@ -24,11 +22,8 @@ NLR DevTeam 现有作品：
 |[Simple-Mirai-Bot](https://github.com/NLR-DevTeam/Simple-Mirai-Bot)|基于 Mirai 的轻量级 QQ 控制台机器人|
 |[RandomAnimal](https://github.com/NLR-DevTeam/RandomAnimals)|一个带给你奇奇怪怪可可爱爱的猫猫狗狗图的 MCL 插件| 
 
-## 加入我们
-如果您有意愿加入 NLR-DevTeam, 可以访问此链接加入我们的官方 QQ 群并联系到我们 -> [点我跳转](https://join.nlrdev.top/)
-
 <details>
-<summary>奇奇怪怪の图片</summary>
-<img src="https://static.nlrdev.top/developer-jued/whitrayhb.gif" width="25%"><img src="https://static.nlrdev.top/developer-jued/ray.gif" width="25%"><img src="https://static.nlrdev.top/developer-jued/yanji.gif" width="25%"><img src="https://static.nlrdev.top/developer-jued/xiaym.gif" width="25%">
-<img src="https://static.nlrdev.top/zhen-huo/jueXiaym.webp" width="25%"><img src="https://static.nlrdev.top/zhen-huo/jueXiaym.webp" width="25%"><img src="https://static.nlrdev.top/zhen-huo/jueXiaym.webp" width="25%"><img src="https://static.nlrdev.top/zhen-huo/nao.webp" width="25%">
+  <summary>奇奇怪怪の图片</summary>
+  <img src="https://static.nlrdev.top/developer-jued/whitrayhb.gif" width="25%"><img src="https://static.nlrdev.top/developer-jued/ray.gif" width="25%"><img src="https://static.nlrdev.top/developer-jued/yanji.gif" width="25%"><img src="https://static.nlrdev.top/developer-jued/xiaym.gif" width="25%">
+  <img src="https://static.nlrdev.top/zhen-huo/jueXiaym.webp" width="25%"><img src="https://static.nlrdev.top/zhen-huo/jueXiaym.webp" width="25%"><img src="https://static.nlrdev.top/zhen-huo/jueXiaym.webp" width="25%"><img src="https://static.nlrdev.top/zhen-huo/nao.webp" width="25%">
 </details>
