@@ -1,11 +1,12 @@
 <h1 align=center>NLR-DevTeam</h1>
 <p align=center>
-  --==[
+  |
   <a href="//nlrdev.top">官方网站</a> ·
   <a href="mailto:contact@nlrdev.top">电子邮箱</a> ·
   <a href="//join.nlrdev.top">加入我们</a>
-  ]==--
+  |
 </p>
+
 
 ## 成员
 - [XIAYM](//github.com/XIAYM-gh)：一只转生成鸽子的猫
