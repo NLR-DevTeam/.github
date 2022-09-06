@@ -1,9 +1,10 @@
 <h1 align=center>NLR-DevTeam</h1>
+<p align=center>NLR 综合社群建立的软件开发团队</p>
 <p align=center>
   |
-  <a href="//nlrdev.top">官方网站</a> ·
+  <a href="//nlrdev.top" target="_blank">官方网站</a> ·
   <a href="mailto:contact@nlrdev.top">电子邮箱</a> ·
-  <a href="//join.nlrdev.top">加入我们</a>
+  <a href="//join.nlrdev.top" target="_blank">加入我们</a>
   |
 </p>
 
@@ -22,6 +23,8 @@ NLR DevTeam 现有作品：
 |[PDown](https://pdown.top)|傻瓜式、无限制的网盘下载器（闭源）|
 |[Simple-Mirai-Bot](https://github.com/NLR-DevTeam/Simple-Mirai-Bot)|基于 Mirai 的轻量级 QQ 控制台机器人|
 |[RandomAnimal](https://github.com/NLR-DevTeam/RandomAnimals)|一个带给你奇奇怪怪可可爱爱的猫猫狗狗图的 MCL 插件| 
+
+#  
 
 <details>
   <summary>奇奇怪怪の图片</summary>
