@@ -1,14 +1,14 @@
 # NLR-DevTeam
 <p>NLR 综合社群建立的软件开发团队</p>
 <pre><code>┌——————————————————————————┐
-┃ <b>Links</b>                  X ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━┫  
-┃                          ┃  
-┃     <a href="//nlrdev.top" target="_blank">> Official Site</a>      ┃
-┃     <a href="mailto:contact@nlrdev.top">> E-Mail</a>             ┃
-┃     <a href="//join.nlrdev.top" target="_blank">> Join Us</a>            ┃
-┃                          ┃  
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+│ <b>Links</b>                  X │
+├——————————————————————————┤ 
+│                          │  
+│     <a href="//nlrdev.top" target="_blank">> Official Site</a>      │
+│     <a href="mailto:contact@nlrdev.top">> E-Mail</a>             │
+│     <a href="//join.nlrdev.top" target="_blank">> Join Us</a>            │
+│                          │  
+└——————————————————————————┘
 </code></pre>
 
 ## 成员
