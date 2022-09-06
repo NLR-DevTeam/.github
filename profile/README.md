@@ -1,13 +1,15 @@
-<h1 align=center>NLR-DevTeam</h1>
-<p align=center>NLR 综合社群建立的软件开发团队</p>
-<p align=center>
-  |
-  <a href="//nlrdev.top" target="_blank">官方网站</a> ·
-  <a href="mailto:contact@nlrdev.top">电子邮箱</a> ·
-  <a href="//join.nlrdev.top" target="_blank">加入我们</a>
-  |
-</p>
-
+# NLR-DevTeam
+<p>NLR 综合社群建立的软件开发团队</p>
+<pre><code>┏━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃ <b>Links</b>                  X ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━┫  
+┃                          ┃  
+┃     <a href="//nlrdev.top" target="_blank">> Official Site</a>      ┃
+┃     <a href="mailto:contact@nlrdev.top">> E-Mail</a>             ┃
+┃     <a href="//join.nlrdev.top" target="_blank">> Join Us</a>            ┃
+┃                          ┃  
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+</code></pre>
 
 ## 成员
 - [XIAYM](//github.com/XIAYM-gh)：一只转生成鸽子的猫
