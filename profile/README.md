@@ -1,5 +1,6 @@
 <h1 align=center>NLR DevTeam</h1>
 <p align=center><b>💻 NLR 综合社群建立的软件开发团队 💻</b></p>
+<p align=center>交流 Q 群：182850795</p>
 <p align=center>
   <a href="//nlrdev.top" target="_blank">🌏 Official Site</a> //
   <a href="mailto:contact@nlrdev.top">📧 E-Mail</a> // 
