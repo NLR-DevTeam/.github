@@ -22,7 +22,7 @@ NLR DevTeam 现有作品：
 |[草图大全 Web & API](https://grass.nlrdev.top)|生草图片综合社区|
 |[草图大全 Mirai 插件](https://github.com/NLR-DevTeam/GrassPictures)|草图官方 Mirai Console 插件|
 |[Skin Viewer](https://github.com/NLR-DevTeam/Electron-Minecraft-Skin-Viewer)|一个简单的 Minecraft 皮肤查看器|
-|[Simple-Mirai-Bot](https://github.com/NLR-DevTeam/Simple-Mirai-Bot)|(**Deprecated**) 基于 Mirai 的轻量级 QQ 控制台机器人|
+|[Simple-Mirai-Bot](https://github.com/NLR-DevTeam/Simple-Mirai-Bot)|基于 Mirai 的轻量级 QQ 控制台机器人|
 
 #  
 
