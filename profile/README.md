@@ -18,7 +18,7 @@ NLR DevTeam 现有作品：
 |作品|简介|
 |--|--|
 |[FileAdmin](https://github.com/NLR-DevTeam/FileAdmin)|拥有极致体验的轻量级 PHP 文件管理系统|
-|[RandomAnimal](https://github.com/NLR-DevTeam/RandomAnimals)|一个带给你奇奇怪怪可可爱爱的猫猫狗狗图的 MCL 插件|
+|[RandomAnimal](https://github.com/NLR-DevTeam/RandomAnimalsRewrite)|一个带给你奇奇怪怪可可爱爱的猫猫狗狗图的 MCL 插件|
 |[草图大全 Web & API](https://grass.nlrdev.top)|生草图片综合社区|
 |[草图大全 Mirai 插件](https://github.com/NLR-DevTeam/GrassPictures)|草图官方 Mirai Console 插件|
 |[Skin Viewer](https://github.com/NLR-DevTeam/Electron-Minecraft-Skin-Viewer)|一个简单的 Minecraft 皮肤查看器|
