@@ -25,6 +25,7 @@ NLR DevTeam 现有作品：
 |[QQImageGenerator](https://github.com/NLR-DevTeam/QQImageGenerator)|一站式、高效、安全的 QQ 群合照生成器|
 |[Skin Viewer](https://github.com/NLR-DevTeam/Electron-Minecraft-Skin-Viewer)|一个简单的 Minecraft 皮肤查看器|
 |[Simple-Mirai-Bot](https://github.com/NLR-DevTeam/Simple-Mirai-Bot)|基于 Mirai 的轻量级 QQ 控制台机器人|
+|[MCServerManager](https://github.com/NLR-DevTeam/MinecraftServerManager)|高效管理您的多个 MC 服务器|
 
 #  
 
