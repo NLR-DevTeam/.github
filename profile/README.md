@@ -12,7 +12,7 @@
 - [YanJi](//i.simsoft.top)：菜鸟 Web 开发者，氢软站长，草图官网开发者
 - [WhitrayHB](//whitrayhb.top)：一只很优秀的、时不时咕咕咕的鸽子
 - [Ray917](//ray917.xyz)：射线集团 rayGroup 开发者
-- [CarlSky](//arkpowered.cn)：方块盒子 ArkPowered 开发者
+- [CarlSky](//arkpowered.cn)：不放假更新少，一放假狂更新的屑开发者
 
 ## 作品
 NLR DevTeam 现有作品：
