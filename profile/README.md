@@ -16,18 +16,18 @@
 - aipiao: 一个装饰品
 
 ## 作品
-NLR DevTeam 现有作品：
-|作品|简介|
-|--|--|
-|[FileAdmin](https://github.com/NLR-DevTeam/FileAdmin)|拥有极致体验的轻量级 PHP 文件管理系统|
-|[RandomAnimal](https://github.com/NLR-DevTeam/RandomAnimalsRewrite)|一个带给你奇奇怪怪可可爱爱的猫猫狗狗图的 MCL 插件|
-|[草图大全 Web & API](https://grass.nlrdev.top)|生草图片综合社区|
-|[草图大全 Mirai 插件](https://github.com/NLR-DevTeam/GrassPictures)|草图官方 Mirai Console 插件|
-|[CertX](https://certx.nlrdev.top/)|为小白设计的SSL证书申请工具|
-|[QQImageGenerator](https://github.com/NLR-DevTeam/QQImageGenerator)|一站式、高效、安全的 QQ 群合照生成器|
-|[Skin Viewer](https://github.com/NLR-DevTeam/Electron-Minecraft-Skin-Viewer)|一个简单的 Minecraft 皮肤查看器|
-|[Simple-Mirai-Bot](https://github.com/NLR-DevTeam/Simple-Mirai-Bot)|基于 Mirai 的轻量级 QQ 控制台机器人|
-|[MCServerManager](https://github.com/NLR-DevTeam/MinecraftServerManager)|高效管理您的多个 MC 服务器|
+NLR DevTeam 现有产品：
+|产品|简介|开源协议|
+|--|--|--|
+|[FileAdmin](https://github.com/NLR-DevTeam/FileAdmin)|拥有极致体验的轻量级 PHP 文件管理系统|AGPL-3.0 license|
+|[RandomAnimal](https://github.com/NLR-DevTeam/RandomAnimalsRewrite)|一个带给你奇奇怪怪可可爱爱的猫猫狗狗图的 MCL 插件|AGPL-3.0 license|
+|[草图大全 Web & API](https://grass.nlrdev.top)|生草图片综合社区|私有 Web 项目|
+|[草图大全 Mirai 插件](https://github.com/NLR-DevTeam/GrassPictures)|草图官方 Mirai Console 插件|AGPL-3.0 license|
+|[CertX](https://certx.nlrdev.top/)|为小白设计的SSL证书申请工具|私有 Web 项目|
+|[QQImageGenerator](https://github.com/NLR-DevTeam/QQImageGenerator)|一站式、高效、安全的 QQ 群合照生成器|MIT license|
+|[Skin Viewer](https://github.com/NLR-DevTeam/Electron-Minecraft-Skin-Viewer)|MIT license|
+|[Simple-Mirai-Bot](https://github.com/NLR-DevTeam/Simple-Mirai-Bot)|基于 Mirai 的轻量级 QQ 控制台机器人|AGPL-3.0 license|
+|[MCServerManager](https://github.com/NLR-DevTeam/MinecraftServerManager)|高效管理您的多个 MC 服务器|N/A|
 
 #  
 
