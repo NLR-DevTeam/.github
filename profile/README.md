@@ -13,7 +13,7 @@
 - [WhitrayHB](//whitrayhb.top)：一只很优秀的、时不时咕咕咕的鸽子
 - [Ray917](//ray917.xyz)：射线集团 rayGroup 开发者
 - [CarlSky](//arkpowered.cn)：一放假才更新的屑开发者
-- aipiao: 一个装饰品
+- [aipiao_](http://aipiao.fun): NLR Group 官方社群运营者
 
 ## 作品
 NLR DevTeam 现有产品：
@@ -25,7 +25,7 @@ NLR DevTeam 现有产品：
 |[草图大全 Mirai 插件](https://github.com/NLR-DevTeam/GrassPictures)|草图官方 Mirai Console 插件|AGPL-3.0 license|
 |[CertX](https://certx.nlrdev.top/)|为小白设计的SSL证书申请工具|私有 Web 项目|
 |[QQImageGenerator](https://github.com/NLR-DevTeam/QQImageGenerator)|一站式、高效、安全的 QQ 群合照生成器|MIT license|
-|[Skin Viewer](https://github.com/NLR-DevTeam/Electron-Minecraft-Skin-Viewer)|MIT license|
+|[Skin Viewer](https://github.com/NLR-DevTeam/Electron-Minecraft-Skin-Viewer)|一个简单的 Minecraft 皮肤查看器|MIT license|
 |[Simple-Mirai-Bot](https://github.com/NLR-DevTeam/Simple-Mirai-Bot)|基于 Mirai 的轻量级 QQ 控制台机器人|AGPL-3.0 license|
 |[MCServerManager](https://github.com/NLR-DevTeam/MinecraftServerManager)|高效管理您的多个 MC 服务器|N/A|
 
