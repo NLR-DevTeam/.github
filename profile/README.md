@@ -27,7 +27,7 @@ NLR DevTeam 现有产品：
 |[QQImageGenerator](https://github.com/NLR-DevTeam/QQImageGenerator)|一站式、高效、安全的 QQ 群合照生成器|MIT license|
 |[Skin Viewer](https://github.com/NLR-DevTeam/Electron-Minecraft-Skin-Viewer)|一个简单的 Minecraft 皮肤查看器|MIT license|
 |[Simple-Mirai-Bot](https://github.com/NLR-DevTeam/Simple-Mirai-Bot)|基于 Mirai 的轻量级 QQ 控制台机器人|AGPL-3.0 license|
-|[MCServerManager](https://github.com/NLR-DevTeam/MinecraftServerManager)|高效管理您的多个 MC 服务器|N/A|
+|[MCServerManager](https://github.com/NLR-DevTeam/MinecraftServerManager)|高效管理您的多个 MC 服务器|Apache 2.0 license|
 
 #  
 
