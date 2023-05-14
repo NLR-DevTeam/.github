@@ -20,11 +20,12 @@
 
 ## 项目
 
-**Web 相关项目：** 主要由 YanJi 与 CarlSky 维护
+**Web 相关项目：** 主要由 YanJi、CarlSky 与 玖小柒 维护
 
 |项目名|简介|开源协议|主要贡献者|
 |--|--|--|--|
 |[草图大全](https://grass.nlrdev.top)|生草图片综合社区|Closed-source|YanJi|
+|[游戏简介生成器](https://game-intro.nlrdev.top/)|成分过于复杂|MIT Licence|玖小柒|
 |[QQImageGenerator](https://github.com/NLR-DevTeam/QQImageGenerator)|一站式、高效、安全的 QQ 群合照生成器|MIT Licence|YanJi|
 |[抽象填空生成器](https://cx.nlrdev.top)|自动生成各类抽象填空题|Closed-source|YanJi|
 |[FileAdmin](https://fa.nlrdev.top)|极致文件管理体验|AGPL-3.0 Licence|YanJi|
