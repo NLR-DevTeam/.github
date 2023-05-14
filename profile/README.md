@@ -2,7 +2,7 @@
 <p align=center><b>✨💻 探索技术 · 开放共享 💻✨</b></p>
 <p align=center>交流 Q 群：182850795</p>
 <p align=center>
-  <a href="//nlrdev.top" target="_blank">🌏 Official Site</a> //
+  <a href="//www.nlrdev.top" target="_blank">🌏 Official Site</a> //
   <a href="mailto:contact@nlrdev.top">📧 E-Mail</a> // 
   <a href="//join.nlrdev.top" target="_blank">🐧 Join Us</a>
 </p>
