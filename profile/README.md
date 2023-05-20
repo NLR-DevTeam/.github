@@ -30,6 +30,7 @@
 |[抽象填空生成器](https://cx.nlrdev.top)|自动生成各类抽象填空题|Closed-source|YanJi|
 |[FileAdmin](https://fa.nlrdev.top)|极致文件管理体验|AGPL-3.0 Licence|YanJi|
 |[JSONStorage](https://github.com/NLR-DevTeam/JsonStorage)|基于 PHP 的新一代 Json 存储工具|MIT Licence|CarlSky|
+|[WDKit](https://github.com/NLR-DevTeam/WDK)|基于 PHP 的网站开发工具包|MIT Licence|CarlSky|
 
 **Mirai 相关项目：** 主要由 XIAYM 与 WhitrayHB 维护
 
