@@ -47,6 +47,7 @@
 |[Skin Viewer](https://github.com/NLR-DevTeam/SkinViewer)|一个简单的 Minecraft 皮肤查看器|MIT Licence|XIAYM|
 |[MC Server Manager](https://github.com/NLR-DevTeam/MinecraftServerManager)|基于 Java 的 MC 服务端管理器|MIT Licence|CarlSky|
 |[Skin Parts Refresher](https://github.com/NLR-DevTeam/SkinPartsRefresher)|为 MC 1.19.3+ 皮肤编写的修复类模组|MIT Licence|XIAYM|
+|[Hypixel 公益IP](https://sendx.arkpowered.cn)|纯 Hypixel 公益加速IP，没有外部经济支持（迁移至NLR中）|Closed-source|CarlSky|
 
 <br/>
 
