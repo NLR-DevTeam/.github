@@ -25,9 +25,12 @@
 |项目名|简介|开源协议|主要贡献者|
 |--|--|--|--|
 |[草图大全](https://grass.nlrdev.top)|生草图片综合社区|Closed-source|YanJi|
+|[古诗文默写组卷器](https://poem.nlrdev.top)|古诗文默写卷智能化组卷工具|Closed-source|YanJi|
+|[NLR Translate](https://fanyi.nlrdev.top)|AI 加持的新一代翻译工具|Closed-source|YanJi|
 |[游戏简介生成器](https://game-intro.nlrdev.top/)|成分过于复杂|MIT Licence|玖小柒|
-|[QQImageGenerator](https://github.com/NLR-DevTeam/QQImageGenerator)|一站式、高效、安全的 QQ 群合照生成器|MIT Licence|YanJi|
 |[抽象填空生成器](https://cx.nlrdev.top)|自动生成各类抽象填空题|Closed-source|YanJi|
+|[QQImageGenerator](https://github.com/NLR-DevTeam/QQImageGenerator)|一站式、高效、安全的 QQ 群合照生成器|MIT Licence|YanJi|
+|[CertX](https://certx.nlrdev.top)|为小白设计的 SSL 证书申请工具|Closed-source|YanJi|
 |[FileAdmin](https://fa.nlrdev.top)|极致文件管理体验|AGPL-3.0 Licence|YanJi|
 |[JSONStorage](https://github.com/NLR-DevTeam/JsonStorage)|基于 PHP 的新一代 Json 存储工具|MIT Licence|CarlSky|
 |[WDKit](https://github.com/NLR-DevTeam/WDK)|基于 PHP 的网站开发工具包|MIT Licence|CarlSky|
@@ -47,7 +50,7 @@
 |[Skin Viewer](https://github.com/NLR-DevTeam/SkinViewer)|一个简单的 Minecraft 皮肤查看器|MIT Licence|XIAYM|
 |[MC Server Manager](https://github.com/NLR-DevTeam/MinecraftServerManager)|基于 Java 的 MC 服务端管理器|MIT Licence|CarlSky|
 |[Skin Parts Refresher](https://github.com/NLR-DevTeam/SkinPartsRefresher)|为 MC 1.19.3+ 皮肤编写的修复类模组|MIT Licence|XIAYM|
-|[Hypixel 公益IP](https://sendx.arkpowered.cn)|纯 Hypixel 公益加速IP，没有外部经济支持（迁移至NLR中）|Closed-source|CarlSky|
+|[Hypixel 公益 IP](https://sendx.arkpowered.cn)|Hypixel 服务器公益加速 IP|Closed-source|CarlSky|
 
 <br/>
 
