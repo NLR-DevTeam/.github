@@ -12,11 +12,12 @@
 - **[XIAYM](//xiaym.ml)**：一只会写 Java 的鸽子，Java 项目贡献者
 - **[WhitrayHB](//whitrayhb.top)**：一只时不时咕咕咕的鸽子，Java 项目贡献者
 - **[YanJi](//i.simsoft.top)**：Web 项目主要贡献者，官网开发者
-- **[aipiao_](http://aipiao.fun)**: 这是什么？砖块，踢一脚（
-- **[CarlSky](//carlsky.cn)**：[原子动力](//atomunite.cn) AtomUnite 开发者（前 方块盒子）
+- **[CarlSky](//carlsky.cn)**：原子动力 AtomUnite 开发者
+- **[Xiaocuitang](//iceawa.com)**：草图 Windows 端开发者
 - **[玖小柒](//jiuxiaoqi.top)**：三倍根号七开发者
-- **[中国的小赵](//xiaozhao233.top)**：追梦工坊 HiDream Studio 开发者
+- **[aipiao_](http://aipiao.fun)**: 这是什么？砖块，踢一脚（
 - **[延时qwq](//data.yanshiqwq.cn)**：游戏开发者，音游玩家
+- **[中国的小赵](//xiaozhao233.top)**：追梦工坊 HiDream Studio 开发者
 
 ## 项目
 
