@@ -41,6 +41,7 @@
 |项目名|简介|开源协议|主要贡献者|
 |--|--|--|--|
 |[草图 Mirai 插件](https://github.com/NLR-DevTeam/GrassPictures)|利用 Mirai 在 QQ 群中接入草图的服务|AGPL-3.0 Licence|WhitrayHB & XIAYM|
+|[Mirai2MCSM](https://github.com/NLR-DevTeam/Mirai2MCSM)|利用 Mirai 在 QQ 群中直接控制您的 MCSManager 面板|AGPL-3.0 Licence|WhitrayHB & XIAYM|
 |[RandomAnimals](https://github.com/NLR-DevTeam/RandomAnimalsRewrite)|奇奇怪怪可可爱爱的猫猫狗狗谁不爱呢|AGPL-3.0 Licence|WhitrayHB & XIAYM|
 |[SimpleMiraiBot](https://github.com/NLR-DevTeam/SimpleMiraiBot)|基于 Mirai 的轻量级控制台机器人|AGPL-3.0 Licence|XIAYM|
 
