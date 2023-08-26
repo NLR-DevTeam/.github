@@ -50,7 +50,7 @@
 |项目名|简介|开源协议|主要贡献者|
 |--|--|--|--|
 |[Skin Viewer](https://github.com/NLR-DevTeam/SkinViewer)|一个简单的 Minecraft 皮肤查看器|MIT Licence|XIAYM|
-|[MC Server Manager](https://github.com/NLR-DevTeam/MinecraftServerManager)|基于 Java 的 MC 服务端管理器|MIT Licence|CarlSky|
+|[Capacity](https://github.com/NLR-DevTeam/Capacity)|基于 Java 的 MC 服务端管理器|MIT Licence|CarlSky|
 |[Skin Parts Refresher](https://github.com/NLR-DevTeam/SkinPartsRefresher)|为 MC 1.19.3+ 皮肤编写的修复类模组|MIT Licence|XIAYM|
 |[Hypixel 公益 IP](https://sendx.arkpowered.cn)|Hypixel 服务器公益加速 IP|Closed-source|CarlSky|
 
