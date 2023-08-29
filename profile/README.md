@@ -49,6 +49,7 @@
 
 |项目名|简介|开源协议|主要贡献者|
 |--|--|--|--|
+|[Lite Mod Updater](https://github.com/NLR-DevTeam/LiteModUpdater)|轻量级 Fabric 模组在线升级工具|MIT Licence|XIAYM|
 |[Skin Viewer](https://github.com/NLR-DevTeam/SkinViewer)|一个简单的 Minecraft 皮肤查看器|MIT Licence|XIAYM|
 |[Capacity](https://github.com/NLR-DevTeam/Capacity)|基于 Java 的 MC 服务端管理器|MIT Licence|CarlSky|
 |[Skin Parts Refresher](https://github.com/NLR-DevTeam/SkinPartsRefresher)|为 MC 1.19.3+ 皮肤编写的修复类模组|MIT Licence|XIAYM|
