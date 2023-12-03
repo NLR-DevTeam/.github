@@ -42,6 +42,7 @@
 
 |项目名|简介|开源协议|主要贡献者|
 |--|--|--|--|
+|[有梗](https://meme.nlrdev.top/)|综合梗图社区|Closed-source|玖小柒|
 |[古诗文默写组卷器](https://poem.nlrdev.top)|古诗文默写卷智能化组卷工具|Closed-source|YanJi|
 |[NLR Translate](https://fanyi.nlrdev.top)|AI 加持的新一代翻译工具|Closed-source|YanJi|
 |[游戏简介生成器](https://game-intro.nlrdev.top/)|成分过于复杂|MIT Licence|玖小柒|
