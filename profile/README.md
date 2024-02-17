@@ -40,7 +40,7 @@
 
 
 |项目名|简介|主要贡献者|
-|--|--|--|--|
+|--|--|--|
 |[有梗](https://meme.nlrdev.top/)|综合梗图社区|玖小柒|
 |[语文默写组卷器](https://dictation.nlrdev.top)|语文默写卷智能化组卷工具|YanJi|
 |[NLR Translate](https://fanyi.nlrdev.top)|AI 加持的新一代翻译工具|YanJi|
