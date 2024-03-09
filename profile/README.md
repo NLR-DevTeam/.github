@@ -59,6 +59,7 @@
 |[Skin Viewer](https://github.com/NLR-DevTeam/SkinViewer)|一个简单的 Minecraft 皮肤查看器|XIAYM|
 |[Capacity](https://github.com/NLR-DevTeam/Capacity)|基于 Java 的 MC 服务端管理器|CarlSky|
 |[Show My Skin Parts](https://github.com/NLR-DevTeam/ShowMySkinParts)|为 MC 1.19.4 及更高版本编写的皮肤修复类模组|XIAYM|
+|[No More Blur](https://github.com/NLR-DevTeam/NoMoreBlur)|为 MC 24w10a 版本编写的性能修复模组|XIAYM|
 |[Hypixel 公益 IP](https://sendx.arkpowered.cn)|Hypixel 服务器公益加速 IP|CarlSky|
 
 <br/>
