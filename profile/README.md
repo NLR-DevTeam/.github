@@ -43,6 +43,7 @@
 |--|--|--|
 |[有梗](https://meme.nlrdev.top/)|综合梗图社区|玖小柒|
 |[语文默写组卷器](https://dictation.nlrdev.top)|语文默写卷智能化组卷工具|YanJi|
+|[极刷词](https://word.nlrdev.top)|朴实而优雅的背词利器|YanJi|
 |[NLR Translate](https://fanyi.nlrdev.top)|AI 加持的新一代翻译工具|YanJi|
 |[游戏简介生成器](https://game-intro.nlrdev.top/)|成分过于复杂|玖小柒|
 |[抽象填空生成器](https://cx.nlrdev.top)|自动生成各类抽象填空题|YanJi|
@@ -50,7 +51,6 @@
 |[FileAdmin](https://fileadmin.top)|极致文件管理体验|YanJi|
 |[JSONStorage](https://github.com/NLR-DevTeam/JsonStorage)|基于 PHP 的新一代 Json 存储工具|CarlSky|
 |[WDKit](https://github.com/NLR-DevTeam/WDK)|基于 PHP 的网站开发工具包|CarlSky|
-|[ENAL](https://enal.nlrdev.top)|希沃白板快捷登录工具|Xiaocuitang|
 |[QQImageGenerator](https://github.com/NLR-DevTeam/QQImageGenerator)|一站式、高效、安全的 QQ 群合照生成器|YanJi|
 |[Mirai2MCSM](https://github.com/NLR-DevTeam/Mirai2MCSM)|利用 Mirai 在 QQ 群中直接控制您的 MCSManager 面板|WhitrayHB & XIAYM|
 |[RandomAnimals](https://github.com/NLR-DevTeam/RandomAnimalsRewrite)|奇奇怪怪可可爱爱的猫猫狗狗谁不爱呢|WhitrayHB & XIAYM|
