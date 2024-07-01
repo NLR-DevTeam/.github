@@ -33,7 +33,7 @@
 - **[Xiaocuitang](//iceawa.com)**：草图 Windows 端开发者
 - **[玖小柒](//jiuxiaoqi.top)**：三倍根号七开发者
 - **[aipiao_](http://aipiao.fun)**: 这是什么？砖块，踢一脚（
-- **[延时qwq](//data.yanshiqwq.cn)**：游戏开发者，音游玩家
+- **[延时qwq](//data.yanshiqwq.cn)**：kotlin，启动！
 - **[中国的小赵](//xiaozhao233.top)**：追梦工坊 HiDream Studio 开发者
 
 ## 项目
