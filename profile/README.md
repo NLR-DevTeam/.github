@@ -35,6 +35,7 @@
 - **[aipiao_](http://aipiao.fun)**: 这是什么？砖块，踢一脚（
 - **[延时qwq](//data.yanshiqwq.cn)**：kotlin，启动！
 - **[中国的小赵](//xiaozhao233.top)**：追梦工坊 HiDream Studio 开发者
+- **[Cherry_xue](https://github.com/Cherry-xue)**: Minecraft 数据包开发者
 
 ## 项目
 
@@ -61,6 +62,7 @@
 |[No More Blur](https://github.com/NLR-DevTeam/NoMoreBlur)|为 MC 24w10a 版本编写的性能修复模组|XIAYM|
 |[Fcitx5-Enhancer](https://github.com/NLR-DevTeam/Fcitx5-Enhancer)|为 MC + Fcitx5 用户编写的输入法修复模组|XIAYM|
 |[SPECIALIZED](https://specialized.work)|Hypixel 服务器公益加速 IP|CarlSky|
+|[Creeper Rain](https://github.com/NLR-DevTeam/creeper_rain)|Creeper 雨|Cherry_xue & aipiao_|
 
 <br/>
 
