@@ -30,8 +30,8 @@
 - **[WhitrayHB](//whitrayhb.top)**：一只时不时咕咕咕的鸽子，Java 项目贡献者
 - **[YanJi](//i.simsv.com)**：Web 项目主要贡献者，官网开发者
 - **[CarlSky](//carlsky.cn)**：原子动力 AtomUnite 开发者
-- **[Xiaocuitang](//iceawa.com)**：草图 Windows 端开发者
-- **[玖小柒](//jiuxiaoqi.top)**：三倍根号七开发者
+- **[Xiaocuitang](//iceawa.com)**：ENAL 程序开发者
+- **[玖小柒](//jiuxiaoqi.top)**：项目「有梗」开发者，官网重构者
 - **[aipiao_](http://aipiao.fun)**: 这是什么？砖块，踢一脚（
 - **[延时qwq](//data.yanshiqwq.cn)**：kotlin，启动！
 - **[中国的小赵](//xiaozhao233.top)**：追梦工坊 HiDream Studio 开发者
