@@ -35,19 +35,18 @@
 - **[aipiao_](http://aipiao.fun)**: 这是什么？砖块，踢一脚（
 - **[延时qwq](//data.yanshiqwq.cn)**：kotlin，启动！
 - **[中国的小赵](//xiaozhao233.top)**：追梦工坊 HiDream Studio 开发者
-- **[Cherry_xue](https://github.com/Cherry-xue)**: Minecraft 数据包开发者
+- **[Cherry_xue](//github.com/Cherry-xue)**: Minecraft 数据包开发者
 
 ## 项目
 
 
 |项目名|简介|主要贡献者|
 |--|--|--|
-|[有梗](https://meme.nlrdev.top/)|综合梗图社区|玖小柒|
+|[有梗](https://meme.nlrdev.top)|综合梗图社区|玖小柒|
 |[语文默写组卷器](https://dictation.nlrdev.top)|语文默写卷智能化组卷工具|YanJi|
-|[极刷词](https://word.nlrdev.top)|朴实而优雅的背词利器|YanJi|
 |[游戏简介生成器](https://game-intro.nlrdev.top/)|成分过于复杂|玖小柒|
 |[抽象填空生成器](https://cx.nlrdev.top)|自动生成各类抽象填空题|YanJi|
-|[FileAdmin](https://simsv.com/nlr/fileadmin)|极致文件管理体验|YanJi|
+|[FileAdmin](https://fa.nlrdev.top)|极致文件管理体验|YanJi|
 |[JSONStorage](https://github.com/NLR-DevTeam/JsonStorage)|基于 PHP 的新一代 Json 存储工具|CarlSky|
 |[WDKit](https://github.com/NLR-DevTeam/WDK)|基于 PHP 的网站开发工具包|CarlSky|
 |[ENAL](https://enal.nlrdev.top)|希沃白板快捷登录工具|Xiaocuitang|
