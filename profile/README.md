@@ -59,7 +59,7 @@
 |[Capacity](https://github.com/NLR-DevTeam/Capacity)|基于 Java 的 MC 服务端管理器|CarlSky|
 |[Show My Skin Parts](https://github.com/NLR-DevTeam/ShowMySkinParts)|为 MC 高版本编写的皮肤修复模组|XIAYM|
 |[Fcitx5-Enhancer](https://github.com/NLR-DevTeam/Fcitx5-Enhancer)|为 MC + Fcitx5 用户编写的输入法修复模组|XIAYM|
-|[SPECIALIZED](https://specialized.work)|Hypixel 服务器公益加速 IP|CarlSky|
+|[VOIC](https://voic.fun)|Hypixel 服务器公益加速 IP|CarlSky|
 |[Creeper Rain](https://github.com/NLR-DevTeam/creeper_rain)|Creeper 雨|Cherry_xue & aipiao_|
 
 <br/>
