@@ -21,7 +21,7 @@
 <p align=center>
   <a href="//www.nlrdev.top" target="_blank">🌏 Official Site</a> //
   <a href="mailto:contact@nlrdev.top">📧 E-Mail</a> // 
-  <a href="//join.nlrdev.top" target="_blank">🐧 Join Us</a>
+  <a href="//www.nlrdev.top/chat" target="_blank">🐧 Join Us</a>
 </p>
 
 ## 成员
