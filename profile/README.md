@@ -29,7 +29,7 @@
 - **[XIAYM](//xiaym.top)**：一只会写 Java 的鸽子，Java 项目贡献者
 - **[WhitrayHB](//whitrayhb.top)**：一只时不时咕咕咕的鸽子，Java 项目贡献者
 - **[YanJi](//i.simsv.com)**：Web 项目主要贡献者，官网开发者
-- **[CarlSky](//carlsky.cn)**：VoidEdge 开发者，VOIC 公益 IP 维护
+- **[CarlSky](//carlsky.cn)**：CubeNet 开发者，VOIC 公益 IP 维护
 - **[Xiaocuitang](//iceawa.com)**：ENAL 程序开发者
 - **[玖小柒](//jiuxiaoqi.top)**：项目「有梗」开发者，官网重构者
 - **[aipiao_](http://aipiao.fun)**: 这是什么？砖块，踢一脚（
@@ -61,6 +61,7 @@
 |[Fcitx5-Enhancer](https://github.com/NLR-DevTeam/Fcitx5-Enhancer)|为 MC + Fcitx5 用户编写的输入法修复模组|XIAYM|
 |[VOIC](https://voic.fun)|Hypixel 服务器公益加速 IP|CarlSky|
 |[Creeper Rain](https://github.com/NLR-DevTeam/creeper_rain)|Creeper 雨|Cherry_xue & aipiao_|
+|[CubeList](https://github.com/NLR-DevTeam/CubeList)|基于 Velocity API，支持在线 URL(JSON) 的白名单插件|CarlSky|
 
 <br/>
 
